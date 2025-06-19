@@ -1,37 +1,59 @@
-# 👋 Hi, I'm Akhila!  
-### 🧠 AI & Data Science Enthusiast | 💻 Python Developer | 📊 Data Analyst
+<!-- Akhila's GitHub Profile README -->
+
+<h1 align="center">Hi 👋, I'm Akhila</h1>
+<p align="center"><strong>AI & Data Science Graduate | Python Developer | Focused on ML & Real-World Projects</strong></p>
+
+
+
 
 ---
 
-## 🚀 About Me
+### 💡 About Me
 
-- 🎓 B.Tech in AI & Data Science (2024)
-- 🤖 Passionate about Machine Learning, Computer Vision & Data Visualization
-- 🌱 Currently improving my Git & Python automation skills
-- ✍️ I enjoy turning data into visual stories
-
----
-
-## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-44B8D4?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🎓 B.Tech graduate in **AI & Data Science** (Class of 2024)  
+- 🤖 Passionate about Machine Learning, Computer Vision, and NLP  
+- 📊 Enjoy transforming data into meaningful insights and visualizations  
+- 🌱 Currently learning **SQL**, **Streamlit**, and **model deployment**
+- ✨ Actively seeking opportunities in software development, artificial intelligence, data science, or other technical domains.
 
 ---
 
-## 📈 GitHub Stats
+### 🔥 Featured Projects
 
-![Akhila's GitHub stats](https://github-readme-stats.vercel.app/api?username=PakalaAkhila&show_icons=true&theme=radical)
+| 🧠 Project | 🔍 Description | 🛠️ Tech |
+|-----------|----------------|----------|
+| [📰 Fake News Detection System](https://github.com/PakalaAkhila/fake-news-detection) | Machine learning project that classifies news as real or fake based on text features | `Python`, `scikit-learn`, `NLP`, `TF-IDF`, `Flask` |
+| [🌦 Weather Data Analysis](https://github.com/PakalaAkhila/weather-data-analysis) | Data analysis & visualization on real-world weather dataset to explore patterns | `Python`, `pandas`, `matplotlib`, `seaborn` |
+| [🏨 Hostel Management System](https://github.com/PakalaAkhila/hostel-management-system) | Web-based system for managing hostel operations | `HTML`, `CSS`, `Bootstrap`, `CRUD`, `JavaScript` |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PakalaAkhila&layout=compact&theme=radical)
+---
+
+
+---
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,bootstrap,git,github,vscode" />
+</p>
+
+<p align="center">
+  <strong>Also familiar with:</strong> MS Excel • PowerPoint • Time Management • Communication • Adaptability
+</p>
+<p align="center">
+  <strong>Database:</strong> Oracle SQL
+</p>
+
+
 
 ---
 
-## 🔗 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/pakalaakhila)
-- 📫 **Email**: pakalaakhila@gmail.com
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pakalaakhila" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pakalaakhila5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
+
+> _“Turning ideas into code. Turning code into impact.”_ 🚀
